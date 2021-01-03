@@ -1,0 +1,34 @@
+Subash Bhattachan
+Python Programming
+10/24/16
+
+Rock, Paper, Scissors, Shoot!
+Pseudocode:
+
+
+- Start the program
+- When user enters q the program quits
+- ask the user to input rock, paper, or scissors or quit
+- generate random answer
+- compare random with user input 
+- if user input is rock and random is scissors display win, otherwise display you lost.
+- if user input is scissors and random is paper display win, otherwise display you lost. 
+- if user input is paper and random is rock display win, otherwise display you lost
+- Computer learns of users guess pattern
+- Computer tries to beat the user
+- if user wants to quit, display the current score
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
